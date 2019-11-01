@@ -3,7 +3,8 @@
   src: url(fonts/museo.otf);
 }
 
-@font-face {
+@font-face { 
+
   src: url(fonts/museo900.otf);
   font-family:museo900;
 }
